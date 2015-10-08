@@ -57,7 +57,6 @@ public class Assignment1{
             System.out.println("Thank you for your business!");
             System.exit(0);
     
-    
   }
   
 }
