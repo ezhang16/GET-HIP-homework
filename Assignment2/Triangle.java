@@ -17,6 +17,6 @@ public class Triangle extends Shape implements Printable {
       }
       
       public double getArea() {
-            return height*base*0.5
+            return height*base*0.5;
       }
 }
