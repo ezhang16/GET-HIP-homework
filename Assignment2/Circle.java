@@ -10,7 +10,7 @@ public class Circle extends Shape implements Printable {
       }
       
       public void printDescription(){
-            System.out.println("Radius is " + radius + "units."
+            System.out.println("Radius is " + radius + "units.");
       }
       
       public double getArea() {
